@@ -20,7 +20,7 @@
 
         <prop.plugin.compiler.version>3.8.1</prop.plugin.compiler.version>
         <prop.plugin.checkstyle.version>3.1.0</prop.plugin.checkstyle.version>
-        <prop.plugin.checkstyle.puppycrawl.version>8.24</prop.plugin.checkstyle.puppycrawl.version>
+        <prop.plugin.checkstyle.puppycrawl.version>8.29</prop.plugin.checkstyle.puppycrawl.version>
         <prop.plugin.enforcer.version>3.0.0-M3</prop.plugin.enforcer.version>
         <prop.plugin.shade.version>3.2.4</prop.plugin.shade.version>
         <prop.plugin.skife.version>1.4.1</prop.plugin.skife.version>
